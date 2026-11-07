@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = RSCPreferences;
+		cell = PSLinkCell;
+		detail = "RSCPreferencesListController";
+		icon = "RSCPreferences@2x.png";
+		isController = 1;
+		label = RoundScreenCorners;
+	};
+}

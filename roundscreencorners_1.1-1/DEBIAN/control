@@ -3,7 +3,7 @@ Package: com.chen.roundscreencorners
 Priority: optional
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Version: 1.1-1
-Architecture: all
+Architecture: iphoneos-arm64
 Description: rounded four corners of the screen
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=roundscreencornersDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=roundscreencornersDp

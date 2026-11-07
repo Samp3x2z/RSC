@@ -1,14 +1,14 @@
-Name: RoundScreenCorners
+Name: ReRoundScreenCorners
 Package: com.chen.roundscreencorners
 Priority: optional
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
 Version: 1.1-1
-Architecture: iphoneos-arm64
+Architecture: all
 Description: rounded four corners of the screen
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=roundscreencornersDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=roundscreencornersDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Sponsor:
+Maintainer: Samp3
 Author: GL.CHEN <gl.chen@live.com>
 Section: Tweaks
 Tag: purpose::extension
